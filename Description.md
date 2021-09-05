@@ -1,3 +1,4 @@
-This is a project being wokred on by a large group of people wanting to recreate the mobile game 'Jurrasic Park Builder'.
-If you would like to collaborate through coding or aquiring assets, contact us via Discord.
-If you would like to see updates, star and watch this project.
+This is a project worked on by Coolaction77 and V-Gaming to remake the mobile game 'Jurrasic World the Game.'
+If you would like to collaborate through coding or aquiring assets, contact us via Discord or Github. 
+If you would like to see updates, star and watch this project!  
+ 
